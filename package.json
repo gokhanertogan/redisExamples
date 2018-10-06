@@ -1,0 +1,22 @@
+{
+  "name": "redisexamples",
+  "version": "1.0.0",
+  "description": "This repo will be use for redis examples",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ylcnfrht/redisExamples.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ylcnfrht/redisExamples/issues"
+  },
+  "homepage": "https://github.com/ylcnfrht/redisExamples#readme",
+  "dependencies": {
+    "redis": "^2.8.0"
+  }
+}
